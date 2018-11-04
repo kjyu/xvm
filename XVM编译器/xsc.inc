@@ -1,0 +1,1 @@
+{$DEFINE XSC_MAIN}
